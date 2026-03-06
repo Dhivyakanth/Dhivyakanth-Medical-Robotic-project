@@ -5,6 +5,7 @@
 
 # 2 Case Study Documentation
 > Submit the Notion page link as the final submission
+>
 > [Notion page link]
 
 # 3 Poster Presentation
@@ -15,6 +16,7 @@
 
 # 5 Project Report in Claude Artifact
 > Submit the Claude Artifact URL link
+>
 > [Claude Artifact URL link]
 
 # 6 Project Explanation Video
@@ -22,4 +24,5 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
+>
 > [LinkedIn post URL]
