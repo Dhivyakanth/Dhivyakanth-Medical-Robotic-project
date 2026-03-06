@@ -6,7 +6,7 @@
 # 2 Case Study Documentation
 > Submit the Notion page link as the final submission
 >
-> [Notion page link]
+> https://www.notion.so/Case-Study-DEKA-ARM-LUKE-Arm-EMG-Based-Multi-DOF-Prosthetic-61875e03829c43a79ea08a31ecca8e07?source=copy_link
 
 # 3 Poster Presentation
 > Pls upload the Poster in Google form link
@@ -17,7 +17,7 @@
 # 5 Project Report in Claude Artifact
 > Submit the Claude Artifact URL link
 >
-> [Claude Artifact URL link]
+> https://claude.ai/public/artifacts/d03ee58f-76c0-4671-961a-37efe55c1159
 
 # 6 Project Explanation Video
 > Pls upload the Video in Google form link
