@@ -25,4 +25,4 @@
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
 >
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/dhivyakanth-p-409a30291_medicalrobotics-roboticsinhealthcare-aiinnovation-activity-7436261866559004673-M3On?utm_source=share&utm_medium=member_android&rcm=ACoAAEbPPUkBu8ly0YEJZtfyb-PYWt9ijl73Qag
